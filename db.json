@@ -8,21 +8,21 @@
         "image":"https://source.unsplash.com/collection/1830400/300x200"
       },
       {
-        "id": 1,
+        "id": 2,
         "SKU": 222222222,
         "title": "Furniture 2",
         "description":"Can you believe piece 2?",
         "image":"https://source.unsplash.com/collection/1830400/300x200"
       },
       {
-        "id": 1,
+        "id": 3,
         "SKU": 333333333,
         "title": "Furniture 3",
         "description":"For the more classy crowd is piece 3...",
         "image":"https://source.unsplash.com/collection/1830400/300x200"
       },
       {
-        "id": 1,
+        "id": 4,
         "SKU": 444444444,
         "title": "Furniture 4",
         "description":"Our best selling furniture is piece 4...",
