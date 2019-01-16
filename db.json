@@ -4,28 +4,28 @@
         "id": 1,
         "SKU": 111111111,
         "title": "Furniture 1",
-        "description":"Piece 1 is a wonderful piece...",
+        "description":"Piece 1 is a part of the newest line...",
         "image":"https://source.unsplash.com/300x200/?furniture,chair"
       },
       {
         "id": 2,
         "SKU": 222222222,
         "title": "Furniture 2",
-        "description":"Can you believe piece 2?",
+        "description":"Piece 2 was designed by ...",
         "image":"https://source.unsplash.com/300x200/?furniture,table"
       },
       {
         "id": 3,
         "SKU": 333333333,
         "title": "Furniture 3",
-        "description":"For the more classy crowd is piece 3...",
+        "description":"Piece 3 is the historic best seller...",
         "image":"https://source.unsplash.com/300x200/?furniture,desk"
       },
       {
         "id": 4,
         "SKU": 444444444,
         "title": "Furniture 4",
-        "description":"Our best selling furniture is piece 4...",
+        "description":"Piece 4 is based on the original design...",
         "image":"https://source.unsplash.com/300x200/?furniture,lamp"
       }
     ],
